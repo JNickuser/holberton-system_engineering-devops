@@ -1,2 +1,2 @@
-#Shell permisions#
-**Exercises of shell permisions*
+# Shell permisions
+**Exercises of shell permisions**
