@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 -t | head -n 10
+printf %s\\n {a..z}{a..z} | grep -v "oo"
